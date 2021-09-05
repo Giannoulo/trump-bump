@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/trump-bump/static/css/main.6fba5225.chunk.css",
-    "main.js": "/trump-bump/static/js/main.64b74bfd.chunk.js",
-    "main.js.map": "/trump-bump/static/js/main.64b74bfd.chunk.js.map",
+    "main.css": "/trump-bump/static/css/main.fa0abd51.chunk.css",
+    "main.js": "/trump-bump/static/js/main.7d96ef92.chunk.js",
+    "main.js.map": "/trump-bump/static/js/main.7d96ef92.chunk.js.map",
     "runtime-main.js": "/trump-bump/static/js/runtime-main.3c18e57f.js",
     "runtime-main.js.map": "/trump-bump/static/js/runtime-main.3c18e57f.js.map",
-    "static/js/2.c14f02ac.chunk.js": "/trump-bump/static/js/2.c14f02ac.chunk.js",
-    "static/js/2.c14f02ac.chunk.js.map": "/trump-bump/static/js/2.c14f02ac.chunk.js.map",
+    "static/js/2.a8d23b61.chunk.js": "/trump-bump/static/js/2.a8d23b61.chunk.js",
+    "static/js/2.a8d23b61.chunk.js.map": "/trump-bump/static/js/2.a8d23b61.chunk.js.map",
     "index.html": "/trump-bump/index.html",
-    "static/css/main.6fba5225.chunk.css.map": "/trump-bump/static/css/main.6fba5225.chunk.css.map",
-    "static/js/2.c14f02ac.chunk.js.LICENSE.txt": "/trump-bump/static/js/2.c14f02ac.chunk.js.LICENSE.txt",
-    "static/media/main.css": "/trump-bump/static/media/Confederate_Rebel_Flag.5a2bb8ec.svg",
+    "static/css/main.fa0abd51.chunk.css.map": "/trump-bump/static/css/main.fa0abd51.chunk.css.map",
+    "static/js/2.a8d23b61.chunk.js.LICENSE.txt": "/trump-bump/static/js/2.a8d23b61.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/trump-bump/static/media/hammer.21437b38.svg",
     "static/media/trump.43f0d5f3.svg": "/trump-bump/static/media/trump.43f0d5f3.svg",
     "static/media/trumpIcon2.5c01a39c.svg": "/trump-bump/static/media/trumpIcon2.5c01a39c.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.3c18e57f.js",
-    "static/js/2.c14f02ac.chunk.js",
-    "static/css/main.6fba5225.chunk.css",
-    "static/js/main.64b74bfd.chunk.js"
+    "static/js/2.a8d23b61.chunk.js",
+    "static/css/main.fa0abd51.chunk.css",
+    "static/js/main.7d96ef92.chunk.js"
   ]
 }
