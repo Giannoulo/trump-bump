@@ -29,6 +29,12 @@ body {
     width: 70%;
     height: 100vh;
   }
+  &.unclicked {
+    cursor: url("../Assets/hammer.svg"), auto;
+  }
+  &.clicked {
+    cursor: url("../Assets/hammer-clicked.svg"), auto;
+  }
 }
 
 .container {

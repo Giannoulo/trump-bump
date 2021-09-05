@@ -28,6 +28,10 @@
 }
 
 .trump-svg {
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
   width: 70px;
   margin: 2px;
 }
@@ -63,6 +67,14 @@ body {
     width: 70%;
     height: 100vh;
   }
+}
+
+.App.unclicked {
+  cursor: url("../Assets/hammer.svg"), auto;
+}
+
+.App.clicked {
+  cursor: url("../Assets/hammer-clicked.svg"), auto;
 }
 
 .container {
