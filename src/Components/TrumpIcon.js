@@ -5,7 +5,7 @@ const TrumpIcon = (props) => {
   return (
     <div>
       <img
-        onClick={() => props.clickCallback()}
+        onClick={props.clickCallback === null ? null : () => props.clickCallback()}
         src={TrumpSvg}
         alt="Trump icon"
         draggable="false"

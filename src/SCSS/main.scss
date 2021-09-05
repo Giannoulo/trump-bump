@@ -14,7 +14,9 @@ body {
   top: 0px;
   left: 0px;
   margin: 0;
-  background-color: $body-color;
+  background-image: url("../Assets/Confederate_Rebel_Flag.svg");
+  background-repeat: repeat;
+  background-size: 20%;
 }
 
 .App {

@@ -1,5 +1,6 @@
 #controls-div {
   margin-top: 10px;
-  border-bottom: 1px solid red;
-  font-size: 25px;
+  & > span {
+    font-size: #{"min(5vw, 22px)"}; // Got different unit type error from Sass
+  }
 }
