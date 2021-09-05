@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/trump-bump/static/css/main.fa0abd51.chunk.css",
-    "main.js": "/trump-bump/static/js/main.7d96ef92.chunk.js",
-    "main.js.map": "/trump-bump/static/js/main.7d96ef92.chunk.js.map",
+    "main.js": "/trump-bump/static/js/main.5c64caae.chunk.js",
+    "main.js.map": "/trump-bump/static/js/main.5c64caae.chunk.js.map",
     "runtime-main.js": "/trump-bump/static/js/runtime-main.3c18e57f.js",
     "runtime-main.js.map": "/trump-bump/static/js/runtime-main.3c18e57f.js.map",
     "static/js/2.a8d23b61.chunk.js": "/trump-bump/static/js/2.a8d23b61.chunk.js",
@@ -10,6 +10,7 @@
     "index.html": "/trump-bump/index.html",
     "static/css/main.fa0abd51.chunk.css.map": "/trump-bump/static/css/main.fa0abd51.chunk.css.map",
     "static/js/2.a8d23b61.chunk.js.LICENSE.txt": "/trump-bump/static/js/2.a8d23b61.chunk.js.LICENSE.txt",
+    "static/media/10-BILLION.f1f8a5f9.mp3": "/trump-bump/static/media/10-BILLION.f1f8a5f9.mp3",
     "static/media/main.css": "/trump-bump/static/media/hammer.21437b38.svg",
     "static/media/trump.43f0d5f3.svg": "/trump-bump/static/media/trump.43f0d5f3.svg",
     "static/media/trumpIcon2.5c01a39c.svg": "/trump-bump/static/media/trumpIcon2.5c01a39c.svg"
@@ -18,6 +19,6 @@
     "static/js/runtime-main.3c18e57f.js",
     "static/js/2.a8d23b61.chunk.js",
     "static/css/main.fa0abd51.chunk.css",
-    "static/js/main.7d96ef92.chunk.js"
+    "static/js/main.5c64caae.chunk.js"
   ]
 }
