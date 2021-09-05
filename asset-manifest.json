@@ -1,22 +1,21 @@
 {
   "files": {
-    "main.css": "/trump-bump/static/css/main.08f419e8.chunk.css",
-    "main.js": "/trump-bump/static/js/main.a386709e.chunk.js",
-    "main.js.map": "/trump-bump/static/js/main.a386709e.chunk.js.map",
+    "main.css": "/trump-bump/static/css/main.4af7d07d.chunk.css",
+    "main.js": "/trump-bump/static/js/main.d8bd15d4.chunk.js",
+    "main.js.map": "/trump-bump/static/js/main.d8bd15d4.chunk.js.map",
     "runtime-main.js": "/trump-bump/static/js/runtime-main.3c18e57f.js",
     "runtime-main.js.map": "/trump-bump/static/js/runtime-main.3c18e57f.js.map",
-    "static/js/2.711f6882.chunk.js": "/trump-bump/static/js/2.711f6882.chunk.js",
-    "static/js/2.711f6882.chunk.js.map": "/trump-bump/static/js/2.711f6882.chunk.js.map",
+    "static/js/2.c14f02ac.chunk.js": "/trump-bump/static/js/2.c14f02ac.chunk.js",
+    "static/js/2.c14f02ac.chunk.js.map": "/trump-bump/static/js/2.c14f02ac.chunk.js.map",
     "index.html": "/trump-bump/index.html",
-    "static/css/main.08f419e8.chunk.css.map": "/trump-bump/static/css/main.08f419e8.chunk.css.map",
-    "static/js/2.711f6882.chunk.js.LICENSE.txt": "/trump-bump/static/js/2.711f6882.chunk.js.LICENSE.txt",
-    "static/media/trump.43f0d5f3.svg": "/trump-bump/static/media/trump.43f0d5f3.svg",
-    "static/media/virus.0793c700.svg": "/trump-bump/static/media/virus.0793c700.svg"
+    "static/css/main.4af7d07d.chunk.css.map": "/trump-bump/static/css/main.4af7d07d.chunk.css.map",
+    "static/js/2.c14f02ac.chunk.js.LICENSE.txt": "/trump-bump/static/js/2.c14f02ac.chunk.js.LICENSE.txt",
+    "static/media/trump.43f0d5f3.svg": "/trump-bump/static/media/trump.43f0d5f3.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.3c18e57f.js",
-    "static/js/2.711f6882.chunk.js",
-    "static/css/main.08f419e8.chunk.css",
-    "static/js/main.a386709e.chunk.js"
+    "static/js/2.c14f02ac.chunk.js",
+    "static/css/main.4af7d07d.chunk.css",
+    "static/js/main.d8bd15d4.chunk.js"
   ]
 }
