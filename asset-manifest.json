@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/trump-bump/static/css/main.fa0abd51.chunk.css",
-    "main.js": "/trump-bump/static/js/main.5c64caae.chunk.js",
-    "main.js.map": "/trump-bump/static/js/main.5c64caae.chunk.js.map",
+    "main.js": "/trump-bump/static/js/main.ddcb1b56.chunk.js",
+    "main.js.map": "/trump-bump/static/js/main.ddcb1b56.chunk.js.map",
     "runtime-main.js": "/trump-bump/static/js/runtime-main.3c18e57f.js",
     "runtime-main.js.map": "/trump-bump/static/js/runtime-main.3c18e57f.js.map",
     "static/js/2.a8d23b61.chunk.js": "/trump-bump/static/js/2.a8d23b61.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.3c18e57f.js",
     "static/js/2.a8d23b61.chunk.js",
     "static/css/main.fa0abd51.chunk.css",
-    "static/js/main.5c64caae.chunk.js"
+    "static/js/main.ddcb1b56.chunk.js"
   ]
 }
